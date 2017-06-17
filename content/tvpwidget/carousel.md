@@ -14,7 +14,6 @@
     "layout": "bootstrap",
     "adxSpots": [
         "7",
-        "6",
-        "5"
+        "6"
     ]
 }
