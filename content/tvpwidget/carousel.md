@@ -13,6 +13,7 @@
     "channelId": "85322389",
     "layout": "bootstrap",
     "adxSpots": [
+        "7",
         "4"
     ]
 }
