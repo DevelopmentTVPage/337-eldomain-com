@@ -11,5 +11,8 @@
     "title": "Carousel",
     "name": "carousel",
     "channelId": "85322389",
-    "layout": "bootstrap"
+    "layout": "bootstrap",
+    "adxSpots": [
+        "2"
+    ]
 }
